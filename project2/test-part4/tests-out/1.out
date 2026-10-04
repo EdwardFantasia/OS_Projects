@@ -1,0 +1,4 @@
+test-part4$ /usr/bin/echo hello there > tests-out/1a.out
+test-part4$ cat tests-out/1a.out
+hello there
+test-part4$ exit

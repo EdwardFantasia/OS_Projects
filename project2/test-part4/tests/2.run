@@ -1,0 +1,1 @@
+grep "fclose(stdout)" ../wshell.c -l

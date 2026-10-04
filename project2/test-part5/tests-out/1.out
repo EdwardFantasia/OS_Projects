@@ -1,0 +1,6 @@
+test-part5$ sleep 1 &
+wshell: could not execute command: sleep
+test-part5$ sleep 2
+test-part5$ jobs
+wshell: could not execute command: jobs
+test-part5$ exit

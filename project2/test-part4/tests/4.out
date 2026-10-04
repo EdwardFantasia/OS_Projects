@@ -1,0 +1,3 @@
+test-part4$ cat tests/4a.in | wc -l
+3
+test-part4$ exit

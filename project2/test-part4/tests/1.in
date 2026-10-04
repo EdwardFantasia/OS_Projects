@@ -1,0 +1,4 @@
+/usr/bin/echo hello there > tests-out/1a.out
+cat tests-out/1a.out
+exit
+

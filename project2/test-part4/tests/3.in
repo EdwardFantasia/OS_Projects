@@ -1,0 +1,5 @@
+tail -n1 tests/3a.in > tests-out/3a.out
+head -n1 tests/3a.in >> tests-out/3a.out
+cat tests-out/3a.out
+exit
+
